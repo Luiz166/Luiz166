@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Luiz Otávio im from Brazil, im currently learning system development.
-### Im currently working with HTML5, CSS3, and studying others like C# ![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white})/>, JS, Python.
+### Im currently working with HTML5 ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}), CSS3, and studying others like C# ![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white})/>, JS, Python.
 
 <!--
 **Luiz166/Luiz166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
