@@ -1,5 +1,5 @@
 <div align=center>
- Hi there 👋, my name is Luiz Otávio im from Brazil, im currently learning system development.
- Im currently working with HTML5, CSS3, and studying others like C#, JS, Python.
+<h1> Hi there 👋, my name is Luiz Otávio im from Brazil. Im currently learning system development. </h1>
 </div>
+
 
