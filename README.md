@@ -26,14 +26,21 @@
   
 </div>   
 
-<div align=center> <img src="https://github-readme-stats.vercel.app/api?username=Luiz166" border=true />
+<div align=right> <img src="https://github-readme-stats.vercel.app/api?username=Luiz166&theme=dark" border=true />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz166&theme=dark" alt="language_most_used" border=true align=left
+</div>
+  
+<div align=center>
   
  ## Contact:
   
-<img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="twitter" height= 50 />  
+<a href="https://www.twitter.com/impolitenessz">
+  <img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="twitter" height= 50 />
+  </a>  
   
-  #### twitter.com/impolitenessz
-  
+ 
+  <a href="https://www.linkedin.com/in/luiz-otávio-morais-916b141b8/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedn" height=50 /> 
-  
-  #### linkedin.com/in/luiz-otávio-morais-916b141b8/
+  </a>
+
+  </div>
