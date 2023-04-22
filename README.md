@@ -1,7 +1,8 @@
-
-<div align=center>
-</div>   
-
-<div align=right> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luiz166&theme=midnight-purple" border=true />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luiz166&theme=midnight-purple" alt="language_most_used" border=true align=left
+## LastFM recent scrobbles
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=klyuyev)
+## Activity
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=luiz166&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz166&theme=midnight-purple&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz166&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
