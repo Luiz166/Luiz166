@@ -1,5 +1,3 @@
-## LastFM recent scrobbles
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=klyuyev)
 ## Activity
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=luiz166&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false">
